@@ -1,2 +1,2 @@
-# BannerTextView
-Banner TextView for Android.
+# AndroidDynamicQuantityView
+Dynamic numerical text view for Android.
