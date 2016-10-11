@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.haozhang.widget.AndroidDynamicQuantityView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="140px"
+    android:layout_height="100px">
+
+    <TextView
+        android:layout_width="100px"
+        android:layout_height="100px"
+        android:layout_centerInParent="true"
+        android:background="@drawable/text_background"
+        android:gravity="center"
+        android:text="1"
+        android:textColor="#7b7b84"
+        android:textSize="40sp" />
+
+    <ImageView
+        android:layout_width="40px"
+        android:layout_height="40px"
+        android:layout_centerVertical="true"
+        android:src="@drawable/icon_decrease" />
+
+
+    <ImageView
+        android:layout_width="40px"
+        android:layout_height="40px"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/icon_increase" />
+</com.haozhang.widget.AndroidDynamicQuantityView>
